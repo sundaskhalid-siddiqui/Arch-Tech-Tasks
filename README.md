@@ -62,22 +62,22 @@ The program gives hints:
 Too high
 Too low
 The game continues until the correct number is guessed
-💡 Concepts Used
+ Concepts Used
 Random number generation (rand(), srand())
 Loops (while)
 Conditional statements (if-else)
 User input/output
 
-2️2. ATM Simulation System
+2. ATM Simulation System
 
 A basic ATM system implemented using OOP concepts.
 
-🏦 Features
+ Features
 Check account balance
 Deposit money
 Withdraw money
 Menu-driven interface
-💡 Concepts Used
+ Concepts Used
 Classes and Objects
 Encapsulation
 Functions
