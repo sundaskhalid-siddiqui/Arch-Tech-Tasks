@@ -52,6 +52,38 @@ Features:
 
 *Loops
 
+1.Number Guessing Game
+
+A simple console-based game where:
+
+The computer generates a random number between 1 and 100
+The player tries to guess the number
+The program gives hints:
+Too high
+Too low
+The game continues until the correct number is guessed
+💡 Concepts Used
+Random number generation (rand(), srand())
+Loops (while)
+Conditional statements (if-else)
+User input/output
+
+2️2. ATM Simulation System
+
+A basic ATM system implemented using OOP concepts.
+
+🏦 Features
+Check account balance
+Deposit money
+Withdraw money
+Menu-driven interface
+💡 Concepts Used
+Classes and Objects
+Encapsulation
+Functions
+Conditional statements
+Loop (menu system)
+
 *Switch statement
 
 Functions of STL (push_back, erase)
